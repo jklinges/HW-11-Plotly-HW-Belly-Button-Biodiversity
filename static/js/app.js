@@ -57,7 +57,9 @@ var populateDropdown = function(names) {
 
 var optionChanged = function(newValue) {
 
-  d3.json("data/samples.json").then(function(data) {
+  d3.json("data/samples.json").then(function(data){
+        console.log(data);
+     })
 
   sample_new = data["samples"].filter(function(sample) {
 
