@@ -1,4 +1,4 @@
-#Plot.ly Project - Belly Button Biodiversity
+#Plotly Project - Belly Button Biodiversity
 Analysis creates a visual dashboard of bacteria data using JavaScript, Plotly and Flask
 https://Jklinges.github.io/Plotly-BellyButtonBiodiversity/
 Bacteria by filterforge.com
