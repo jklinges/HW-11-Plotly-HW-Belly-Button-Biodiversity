@@ -1,0 +1,49 @@
+jklinges
+/
+Belly-Button-Biodiversity
+2
+03
+Code
+Issues
+Pull requests
+2
+Actions
+Projects
+Wiki
+Security
+Insights
+Belly-Button-Biodiversity/static/styles.css
+@jklinges
+jklinges Complete
+Latest commit a4e75f7 on Jan 13, 2021
+ History
+ 1 contributor
+27 lines (22 sloc)  324 Bytes
+  
+.jumbotron {
+    text-align: center;
+    background-color: rgba(3, 48, 100, 0.411);
+    min-height: 75px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+#pie {
+    width: 100%;
+    height: 100%;
+}
+
+#gauge {
+    width: 100%;
+    height: 100%;
+}
+
+#bubble {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
