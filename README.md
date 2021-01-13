@@ -1,5 +1,5 @@
 #Plotly Project - Belly Button Biodiversity
-Analysis creates a visual dashboard of bacteria data using JavaScript, Plotly and Flask
+Analysis creates a visual dashboard of bacteria data using JavaScript and Plotly.
 https://Jklinges.github.io/Plotly-BellyButtonBiodiversity/
 Bacteria by filterforge.com
 
